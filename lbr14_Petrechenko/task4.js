@@ -5,7 +5,7 @@ const person = {
     age: 18
 };
 
-person.email = "student@gmail.com";
+person.email = "dfsdfsdfsdf@gmail.com";
 
 delete person.age;
 
